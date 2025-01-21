@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react_qr_app/static/css/main.879a7cc4.css",
+    "main.js": "/react_qr_app/static/js/main.ef0fac6e.js",
+    "static/js/453.de3d8acb.chunk.js": "/react_qr_app/static/js/453.de3d8acb.chunk.js",
+    "static/media/astronaut.png": "/react_qr_app/static/media/astronaut.1d752285128b052f17fb.png",
+    "static/media/astronaut_old.png": "/react_qr_app/static/media/astronaut_old.09554e178415a8bfc0f6.png",
+    "static/media/ld_logo_white_old.png": "/react_qr_app/static/media/ld_logo_white_old.a7492e3d4eeb3e04a651.png",
+    "static/media/ld_logo_white.png": "/react_qr_app/static/media/ld_logo_white.c7ccd94b41333f877744.png",
+    "index.html": "/react_qr_app/index.html",
+    "static/media/heart.svg": "/react_qr_app/static/media/heart.d2335c446be1557dad255b4b1665035f.svg",
+    "main.879a7cc4.css.map": "/react_qr_app/static/css/main.879a7cc4.css.map",
+    "main.ef0fac6e.js.map": "/react_qr_app/static/js/main.ef0fac6e.js.map",
+    "453.de3d8acb.chunk.js.map": "/react_qr_app/static/js/453.de3d8acb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.879a7cc4.css",
+    "static/js/main.ef0fac6e.js"
+  ]
+}
